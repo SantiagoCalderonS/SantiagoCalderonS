@@ -32,5 +32,5 @@ Nodemailer
 ```sh
 Telefono: +57 304 4259376
 Cuenta: caldesanche@gmail.com
-linkedIn: 
+linkedIn: https://www.linkedin.com/in/santiago-calderon-sechotborgh-50020226a/
 ```
