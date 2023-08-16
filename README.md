@@ -1,8 +1,7 @@
 # _Santiago-Calderon-Sechotborgh_
 
 ### ¿Quien soy?
-Me llamo Santiago y soy un joven desarrollador web en aprendizaje.
-siempre me ha interesando el mundo de la tecnologia como la robotica y la progamacion, como el friki que soy me llama bastante la atencion en particular el desarrollo de videojuegos, pero para empezar en este mundo me decante por el desarrollo web utilizando JS como primer lenguaje.
+Me llamo Santiago y soy un joven desarrollador web en aprendizaje. siempre me ha interesado el mundo de la tecnología como la robótica y la programación, como el friki que soy me llama bastante la atención en particular el desarrollo de videojuegos, pero para empezar en este mundo me decante por el desarrollo web utilizando JS como primer lenguaje. Mi hobby es dibujar, animar y crear personajes.
 Mi hobby es dibujar, animar y crear personajes.
 
 **¿Que hago?**
