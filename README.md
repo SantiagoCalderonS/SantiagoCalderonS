@@ -4,7 +4,7 @@
 Me llamo Santiago y soy un joven desarrollador web en aprendizaje. siempre me ha interesado el mundo de la tecnología como la robótica y la programación, como el friki que soy me llama bastante la atención en particular el desarrollo de videojuegos, pero para empezar en este mundo me decante por el desarrollo web utilizando JS como primer lenguaje. Mi hobby es dibujar, animar y crear personajes.
 
 **¿Que hago?**
-- Actualmente me encuentro desarrollando un sitio web dinamico junto a un grupo, mientras aprendo nuevas tencnologias y profundizo mis conocimientos previos
+- Actualmente me encuentro en proceso de seleccion para un empleo de medio tiempo
 
 **tecnologias actuales aprendidas:**
 ```sh
